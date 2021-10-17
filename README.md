@@ -9,6 +9,7 @@ much quality / organization in the short-term.
 The following features (which are currently always enabled) are supported:
 - `youtube-dl`-based music streaming (supports per-channel queues in a very primitive way)
 - WolframAlpha short answer API queries
+- Dice-rolling that supports several common RPG roll mechanics using `OptionParser`
 
 ## Contributing / Using
 
